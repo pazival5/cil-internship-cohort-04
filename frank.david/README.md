@@ -1,13 +1,15 @@
-# Cecure Intelligence limited 
-[We build modern digital products with experienced development teams.](https://cecureintel.com/)
+# Cecure Intelligence limited
+
+Our commitment is to deliver tangible outcomes using experienced, highly skilled and affordable product development teams. 
+[learn more](https://cecureintel.com/)
 
 
-# Module 1 practicals for Cohort-4
-This is to facilitate the broad understanding of the various domains.
-These domains are 
-* Data Engineering
-* business analysis
-* Cloud Engineering
-* Front-end developer
+# Module 1 task
+This is task is to gain geneeral knowlege on all field and to promote teamwork between teams
+this is beacause:
+* It improves understanding.
+* It fosters creativity.
+* It improves motivation.
+* It teaches conflict resolution skills
 
-<p> Paragraph ---- Feel free to correct my errors and add more contents 😉. <p/>
+<p> Paragraph ---- We build modern digital products with experienced development teams.<p/>
