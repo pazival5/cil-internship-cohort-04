@@ -24,3 +24,4 @@ Benefits of Scrum methodology
 2. Working software over comprehensive documentation
 3. Customer collaboration over contract negotiation
 4. Responding to change over following a plan
+5
